@@ -1,2 +1,2 @@
-# ffmpeg-scripts
-ffmpeg Scripts
+# ffmpeg Scripts
+Scripts for [ffmpeg](https://ffmpeg.org/).
